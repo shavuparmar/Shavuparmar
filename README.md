@@ -1,6 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shavu9&label=Profile%20views&color=0e75b6&style=flat" alt="shavu9" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shavu9&label=Profile%20views&color=0e75b6&style=flat" alt="shavuparmar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shavu9" alt="shavu9" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shavuparmar" alt="shavuparmar" /></a> </p>
 
 - 📫 How to reach me **parmarshavu009@gmail.com**
 
