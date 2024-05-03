@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ShavuParmar</h1>
-<img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"alt=""/>Image</img>
+<img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"alt=""/>Image</img>
 <h3 align="center">A passionate frontend developer and graphics designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shavuparmar&label=Profile%20views&color=0e75b6&style=flat" alt="shavuparmar" /> </p>
