@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shavuparmar" target="blank"><img src="https://img.shields.io/twitter/follow/shavuparmar?logo=twitter&style=for-the-badge" alt="shavuparmar" /></a> </p>
 
-- 🔭 I’m currently working on [Dev-Hubs](https://dev-hubs-vercel.app)
+- 🔭 I’m currently working on [Dev-Hubs](https://dev-hubs.vercel.app/)
 
 - 🌱 I’m currently learning **React + MongoDB**
 
